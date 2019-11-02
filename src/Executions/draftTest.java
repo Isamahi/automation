@@ -24,6 +24,7 @@ public class draftTest {
 		//login.enterpassword("MoMo1234");
 		//login.clicklogin();
 		//login.forgotclick();
+	System.out.println("change");
 	}
   @BeforeClass
   public void beforeClass() {
